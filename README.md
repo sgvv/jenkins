@@ -1,7 +1,7 @@
 # How to run Jenkins inside Docker Container
 
 ```
-$git clone https://github.com/ajeetraina/jenkins
+$git clone https://github.com/sgvv/jenkins
 $cd jenkins
 $docker-compose up -d
 ```
